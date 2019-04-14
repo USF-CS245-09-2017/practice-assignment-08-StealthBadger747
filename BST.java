@@ -8,8 +8,6 @@ public class BST<T> {
         BSTNode right;
         BSTNode left;
 
-
-        public BSTNode(Comparable value) {
         public BSTNode(Comparable value) {
             this.data = value;
         }
